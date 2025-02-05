@@ -33,5 +33,6 @@ env/
 
 # Project specific
 output/
+input/
 *.wav
 .DS_Store 

@@ -1,4 +1,7 @@
 requests>=2.31.0
 cozepy>=0.1.0
 openai>=1.12.0
-pygame>=2.5.2 
+pygame>=2.5.2
+pyaudio>=0.2.14
+keyboard>=0.13.5
+wave>=0.0.2 
